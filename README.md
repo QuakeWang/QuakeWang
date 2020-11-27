@@ -7,5 +7,5 @@ I'm an open source enthusiast, interested in development tools and Yo-Yo.
 - ⚡ Main projects: 
   - 
 - 👉 Blog: [personal blog](https://quakewang.github.io/)
-- 💬 WeChat: `WangErXi- Coder`
+- 💬 WeChat: `WangErXi-Coder`
 - 📫 Ping me by [Email](mailto:wangfuzheng0814@foxmail.com) 
