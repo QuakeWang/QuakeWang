@@ -7,7 +7,6 @@ Open Source enthusiast, interested in Algorithms.
 - ⚡ Main projects: 
   - [OS-EDU/KO--CSP](https://github.com/OS-EDU/KO--CSP)
   - [QuakeWang/DataStructure](https://github.com/QuakeWang/DataStructure)
-  - [alc-beijing/alc-site](https://github.com/alc-beijing/alc-site)
 - 👉 Blog: [personal blog](https://quakewang.github.io/)
 - 💬 WeChat: `WangErXi-Coder`
 - 📫 Ping me by [Email](mailto:wangfuzheng0814@foxmail.com) 
