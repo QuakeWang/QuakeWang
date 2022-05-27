@@ -9,7 +9,6 @@ Open Source enthusiast, interested in Algorithms.
   - [QuakeWang/FlinkTutorial](https://github.com/QuakeWang/FlinkTutorial)
   - [Apache/DolphinSchduler](https://github.com/apache/dolphinscheduler)
 - 👉 Blog: [personal blog](https://quakewang.github.io/)
-- 💬 WeChat: `WangErXi-Coder`
 - 📫 Ping me by [Email](mailto:wangfuzheng0814@foxmail.com) 
 
 <h2>ℹ️ &nbsp;Github Info</h2>
