@@ -1,6 +1,6 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=QuakeWang&&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true%22" /> -->
 
-Open Source enthusiast, interested in bigdata and database.
+Open Source enthusiast, interested in big data and databases.
 
 - 🌱 I’m a thrower~~
 - 🏗 There are five things that I seek: Books、Music、Code、YoYo and Ideas.
@@ -15,5 +15,8 @@ Open Source enthusiast, interested in bigdata and database.
 <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuakeWang&theme=github_dark" alt="TopCodeBeast" align = "center"/></p>
 
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/QuakeWang/QuakeWang/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuakeWang/QuakeWang/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QuakeWang/QuakeWang/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QuakeWang/QuakeWang/output/github-contribution-grid-snake.svg">
+</picture>
