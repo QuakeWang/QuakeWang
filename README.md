@@ -13,10 +13,9 @@ Open Source enthusiast, interested in big data and databases.
 <h2>ℹ️ &nbsp;Github Info</h2>
 
 <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuakeWang&theme=github_dark" alt="TopCodeBeast" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuakeWang&theme=vue" alt="TopCodeBeast" align = "center"/></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuakeWang/QuakeWang/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QuakeWang/QuakeWang/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QuakeWang/QuakeWang/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="left"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuakeWang&theme=vue" alt="TopLanguage" align = "left"/></p>
+<p align="right"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QuakeWang&theme=vue&utcOffset=8" alt="TopCommit" align = "right"/></p>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/QuakeWang/QuakeWang/output/github-contribution-grid-snake.svg)
