@@ -7,6 +7,7 @@ Open Source enthusiast, interested in big data and databases.
 - ⚡ Main projects: 
   - [QuakeWang/BigData-Notes](https://github.com/QuakeWang/BigData-Notes)
   - [Apache/DolphinSchduler](https://github.com/apache/dolphinscheduler)
+  - [Quakewang/rust-toy](https://github.com/QuakeWang/rust-toy)
 - 👉 Blog: [personal blog](https://quakewang.github.io/)
 - 📫 Ping me by [Email](mailto:wangfuzheng0814@foxmail.com) 
 
